@@ -1,0 +1,4 @@
+F:\LhyPro\LhyPro.Common\bin\Debug\LhyPro.Common.dll
+F:\LhyPro\LhyPro.Common\bin\Debug\LhyPro.Common.pdb
+F:\LhyPro\LhyPro.Common\obj\Debug\LhyPro.Common.dll
+F:\LhyPro\LhyPro.Common\obj\Debug\LhyPro.Common.pdb
